@@ -13,3 +13,7 @@ S
 #contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
 R
 "tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
+L
+tests/usage-tracking.test.ts,f/3/f3ccbb830bb90abf63cbc09d0b13119cf315d93c
