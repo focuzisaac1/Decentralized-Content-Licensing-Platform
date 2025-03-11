@@ -5,3 +5,7 @@ S
 #contracts/content-registration.clar,1/f/1fe1cf4c89d095009875832df26418e6808b4278
 R
 "tests/content-registration.test.ts,7/f/7f9ab5627e9d543f2c22d64c0425222f8b5c1b16
+N
+contracts/licensing-terms.clar,a/e/ae6af3ee651cf3d4d61c81bf81c9580a23038d50
+M
+tests/licensing-terms.test.ts,f/a/fa3d4beb33d85864e3bb9e47261507d4d18b2e1c
